@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- 
 import unittest
-from wordcount import words
+from word_count import words
 class TestWordCounts(unittest.TestCase):
 
     """
